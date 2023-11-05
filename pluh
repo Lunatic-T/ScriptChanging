@@ -1,0 +1,35 @@
+print("Byfron sucks")
+System.out.println("Byfron sucks"); 
+#include <iostream>
+int main() {
+    std::cout << "Byfron sucks" << std::endl;
+    return 0;
+}
+console.log("Byfron sucks");
+using System;
+class Program {
+    static void Main() {
+        Console.WriteLine("Byfron sucks");
+    }
+}
+puts "Byfron sucks"
+<?php
+echo "Byfron sucks";
+?>
+print("Byfron sucks")
+package main
+import "fmt"
+func main() {
+    fmt.Println("Byfron sucks")
+}
+fn main() {
+    println!("Byfron sucks");
+}
+fun main() {
+    println("Byfron sucks")
+}
+print "Byfron sucks\n";
+print("Byfron sucks")
+main :: IO ()
+main = putStrLn "Byfron sucks"
+PRINT 'byfron sucks'
